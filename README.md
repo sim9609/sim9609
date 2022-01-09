@@ -41,10 +41,14 @@
  Node.js
  <br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+
  <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  <br/>
  <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
+ <br/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MonggoDB-003545?style=flat-square&logo=MonggoDB&logoColor=white"/>
 </p>
 
 #### Tools
