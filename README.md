@@ -49,8 +49,10 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=MongoDB&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=MongoDB&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-
+MySQL
 #### Tools
 <p>
  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
