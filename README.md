@@ -48,7 +48,7 @@
  <br/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MonggoDB-003545?style=flat-square&logo=MonggoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
 #### Tools
