@@ -1,7 +1,7 @@
 <!-- HITS 부분 --> 
 
 <p align="right">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsim9609%2Fsim9609%2Fhit-counter&count_bg=%236968AC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false" />
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsim9609&count_bg=%236667AB&title_bg=%23000000&icon=godotengine.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true"/>
 </p>
 
 
