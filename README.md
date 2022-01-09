@@ -38,7 +38,11 @@
  <img src="https://img.shields.io/badge/JavaScript-F89B00?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
- Node.js
+ <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jQuery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Eclipse IDE-007396?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+
  <br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
@@ -52,7 +56,7 @@
    <img src="https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=MongoDB&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-MySQL
+
 #### Tools
 <p>
  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
