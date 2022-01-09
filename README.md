@@ -37,18 +37,17 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F89B00?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
- <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jQuery&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
- <img src="https://img.shields.io/badge/Eclipse IDE-007396?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+ 
+
 
  <br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
+ <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jQuery&logoColor=white"/>
 
  <br/>
- <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
+
  <br/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/>
