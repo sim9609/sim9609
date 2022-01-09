@@ -43,8 +43,8 @@
  <br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white"/>
- <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
  <br/>
 
