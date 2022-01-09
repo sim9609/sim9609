@@ -46,7 +46,7 @@
  <br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+
  <br/>
  <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
  <br/>
@@ -62,9 +62,9 @@
  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache Tomcat-F05032?style=flat&logo=Apache Tomcat&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
 
