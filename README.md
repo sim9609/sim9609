@@ -21,7 +21,7 @@
 </p>
 
 <p>
- ✪ Hi there!  I'm <b> frontend web developer</b> using React. <br/>
+ ✪ Hi there!  I'm <b> frontend web developer</b> using Java. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
  <br/>
  ✩ I was attracted to realizing my imagination into reality. <br/>
