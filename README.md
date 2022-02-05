@@ -61,7 +61,7 @@
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/>
- <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual StudioCode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 </p>
 
